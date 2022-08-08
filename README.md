@@ -6,6 +6,6 @@ If there are problems with the security rules, attackers could steal, modify or 
 
 # How to install
 
-sudo wget https://raw.githubusercontent.com/takito1812/FireStorePwn/main/fsp -O /bin/fsp
-sudo chmod +x /bin/hack_it
+$ sudo git clone https://github.com/abhishek6309/hack_it.git
+$ sudo chmod +x /bin/hack_it
 
