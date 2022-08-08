@@ -7,5 +7,6 @@ If there are problems with the security rules, attackers could steal, modify or 
 # How to install
 
 $ sudo git clone https://github.com/abhishek6309/hack_it.git
+
 $ sudo chmod +x /bin/hack_it
 
