@@ -4,7 +4,7 @@ It decompiles and  scans an APK and checks the  for rules using regex that are n
 
 If there are problems with the security rules, attackers could steal, modify or delete data and raise the bill.
 
-# How to install
+# How to install:
 
 $ sudo git clone https://github.com/abhishek6309/hack_it.git
 
